@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reNameMusicList"
+        android:icon="@drawable/ic_night_edit"
+        android:title="重命名"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/playAll"
+        android:icon="@mipmap/ic_night_actionbar_play"
+        android:title="播放全部"
+        app:showAsAction="always" />
+</menu>

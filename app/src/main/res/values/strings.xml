@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">locoMusic</string>
+
+    <!--Title-->
+<!--    <string-array name="title">-->
+<!--        <string name="musicListList">全部歌单</string>-->
+<!--        <string name="musicList">歌单内容</string>-->
+<!--        <string name="fileList">搜索歌曲</string>-->
+<!--    </string-array>-->
+</resources>

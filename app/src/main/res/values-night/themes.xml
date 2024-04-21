@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LocoMusic" parent="Theme.Material3.DayNight">
+        <item name="actionBarStyle">@style/PActionBarStyle</item>
+        <item name="colorPrimary">#FF138535</item>
+        <item name="windowActionBarOverlay">false</item>
+    </style>
+
+<!--    bar样式-->
+    <style name="PActionBarStyle" parent="@style/Widget.Material3.ActionBar.Solid">
+        <!-- Support library compatibility -->
+        <item name="background">@color/mainThemeColor</item>
+        <item name="height">50dp</item>
+    </style>
+</resources>
